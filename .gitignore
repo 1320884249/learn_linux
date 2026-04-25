@@ -1,0 +1,27 @@
+# C/C++ binaries
+*.out
+*.exe
+a.out
+app
+mycp
+make_sparse
+inspect_sparse
+
+# Build dirs
+build/
+cmake-build-*/
+
+# Debug / traces
+*.o
+*.obj
+*.dSYM/
+core
+core.*
+trace.txt
+ltrace.txt
+
+# Editor/OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
