@@ -1,0 +1,2 @@
+syscall line
+hello dup2
